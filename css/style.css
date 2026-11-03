@@ -59,7 +59,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{o
 /* HERO 레이아웃 */
 .hero{display:grid;grid-template-columns:minmax(0, 53%) minmax(0,47%);min-height:690px;border-bottom:3px solid var(--ink)}
 .hero-copy {
-    padding: 95px 48px 38px;
+    padding: 95px 48px 38px clamp(48px, 8vw, 160px);
     display: flex;
     flex-direction: column;
     align-items: flex-start;
