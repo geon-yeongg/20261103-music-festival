@@ -45,7 +45,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{o
 .top-strip span{color:var(--yellow);padding:0 16px}
 .site-header{height:91px;padding:0 45px;display:flex;align-items:center;justify-content:space-between;gap:35px;position:sticky;top:0;z-index:20;background:var(--cream);border-bottom:2px solid var(--ink)}
 .brand{display:flex;align-items:center;gap:13px;flex-shrink:0}
-.brand-main{font-family:var(--font-display);font-weight:1000;font-size:47px;letter-spacing:-3px;line-height:1}
+.brand-main{font-family:var(--font-display);font-weight:1000;font-size:47px;letter-spacing:3px;line-height:1}
 .brand-main>span{color:var(--orange)}
 .brand-small{font-size:8px;line-height:1.25;font-weight:900;letter-spacing:1.2px;border-left:2px solid var(--ink);padding-left:12px}
 .desktop-nav{display:flex;align-items:center;gap:29px;margin-left:auto}
