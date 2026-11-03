@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820"><defs>
+<pattern id="grain" width="35" height="35" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#151515" opacity=".1"/><circle cx="22" cy="24" r="1.5" fill="#fff" opacity=".13"/></pattern>
+<pattern id="rays" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38L38 0" stroke="#fff" stroke-opacity=".12" stroke-width="4"/></pattern></defs>
+<rect width="720" height="820" fill="#FFC21A"/><circle cx="352" cy="349" r="285" fill="#EB4F32" stroke="#11110F" stroke-width="16"/>
+<path d="M0 675Q150 505 355 655T720 658v162H0Z" fill="#FA8F9F" stroke="#11110F" stroke-width="12"/>
+<g transform="rotate(24 382 400)"><path d="M300 447Q198 365 267 288q49-59 117-21 64-46 116 14 83 108-40 181L440 690H300z" fill="#087E7A" stroke="#11110F" stroke-width="14"/>
+<circle cx="369" cy="377" r="76" fill="#11110F" stroke="#F5E4C9" stroke-width="12"/>
+<rect x="346" y="-40" width="46" height="490" fill="#11110F"/>
+<g stroke="#F5E4C9" stroke-width="2"><path d="M355 0v650M366 0v650M376 0v650M388 0v650"/></g>
+</g><path d="M100 166l34-89 31 89 95 34-95 33-31 90-34-90-92-33z" fill="#F5E4C9" stroke="#11110F" stroke-width="10"/>
+<rect width="720" height="820" fill="url(#grain)"/></svg>

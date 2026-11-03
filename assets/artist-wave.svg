@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820"><defs>
+<pattern id="grain" width="35" height="35" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#151515" opacity=".1"/><circle cx="22" cy="24" r="1.5" fill="#fff" opacity=".13"/></pattern>
+<pattern id="rays" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38L38 0" stroke="#fff" stroke-opacity=".12" stroke-width="4"/></pattern></defs>
+<rect width="720" height="820" fill="#EB4F32"/><circle cx="365" cy="288" r="247" fill="#FFC21A" stroke="#11110F" stroke-width="13"/>
+<path d="M0 640Q145 560 295 645T720 628V820H0Z" fill="#087E7A" stroke="#11110F" stroke-width="12"/>
+<g fill="#11110F"><path d="M103 668V432q0-88 75-88t74 88v236z"/><path d="M260 666V371q0-107 91-107t94 107v295z"/><path d="M447 677V445q0-93 78-93t77 93v232z"/></g>
+<g fill="#F5E4C9"><ellipse cx="177" cy="342" rx="64" ry="80"/><ellipse cx="353" cy="264" rx="83" ry="101"/><ellipse cx="526" cy="350" rx="68" ry="85"/></g>
+<path d="M305 257q37-78 109-10M129 331q56-52 101 1M479 331q51-54 101 3" stroke="#11110F" stroke-width="26" fill="none"/>
+<path d="M352 365V632" stroke="#FFC21A" stroke-width="22"/><path d="M320 404L385 454" stroke="#FFC21A" stroke-width="14"/><path d="M311 586L407 610" stroke="#FFC21A" stroke-width="35"/>
+<path d="M78 155l25-76 25 76 79 25-79 25-25 78-25-78-78-25z" fill="#FA8F9F" stroke="#11110F" stroke-width="9"/>
+<rect width="720" height="820" fill="url(#grain)"/></svg>

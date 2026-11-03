@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820"><defs>
+<pattern id="grain" width="35" height="35" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#151515" opacity=".1"/><circle cx="22" cy="24" r="1.5" fill="#fff" opacity=".13"/></pattern>
+<pattern id="rays" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38L38 0" stroke="#fff" stroke-opacity=".12" stroke-width="4"/></pattern></defs>
+<rect width="720" height="820" fill="#F5E4C9"/><path d="M-90 100L815 740" stroke="#FA8F9F" stroke-width="140"/><path d="M-100 290L750 850" stroke="#087E7A" stroke-width="140"/>
+<circle cx="368" cy="324" r="249" fill="#FFC21A" stroke="#11110F" stroke-width="15"/>
+<path d="M246 748V502q0-157 124-157t128 157v246z" fill="#11110F"/>
+<ellipse cx="371" cy="302" rx="92" ry="119" fill="#F5E4C9"/><path d="M276 279q16-138 124-121 96 14 68 143-50-80-96-80-52 59-96 58z" fill="#11110F"/>
+<path d="M329 330q14 16 30 0M394 330q14 16 30 0" stroke="#11110F" stroke-width="8" fill="none"/>
+<path d="M341 384q28 18 54-4" stroke="#EB4F32" stroke-width="8" fill="none"/>
+<g transform="rotate(-16 442 619)"><ellipse cx="460" cy="608" rx="113" ry="91" fill="#EB4F32" stroke="#11110F" stroke-width="13"/><rect x="210" y="576" width="288" height="34" fill="#FFC21A" stroke="#11110F" stroke-width="9"/><circle cx="459" cy="608" r="34" fill="#11110F"/><g stroke="#F5E4C9" stroke-width="3"><path d="M218 588h280M218 594h280M218 600h280"/></g></g>
+<rect width="720" height="820" fill="url(#grain)"/></svg>

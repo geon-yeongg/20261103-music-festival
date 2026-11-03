@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="820" viewBox="0 0 720 820"><defs>
+<pattern id="grain" width="35" height="35" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1" fill="#151515" opacity=".1"/><circle cx="22" cy="24" r="1.5" fill="#fff" opacity=".13"/></pattern>
+<pattern id="rays" width="38" height="38" patternUnits="userSpaceOnUse"><path d="M0 38L38 0" stroke="#fff" stroke-opacity=".12" stroke-width="4"/></pattern></defs>
+<rect width="720" height="820" fill="#FA8F9F"/><circle cx="324" cy="309" r="252" fill="#087E7A" stroke="#11110F" stroke-width="15"/>
+<g fill="#FFC21A" stroke="#11110F" stroke-width="10"><path d="M100 320l23-69 21 69 73 26-73 21-21 73-23-73-74-21z"/><path d="M560 107l18-49 17 49 53 19-53 17-17 50-18-50-51-17z"/></g>
+<g fill="#11110F" stroke="#11110F" stroke-width="8"><circle cx="345" cy="427" r="114"/><circle cx="218" cy="501" r="74"/><circle cx="475" cy="501" r="74"/></g>
+<circle cx="345" cy="427" r="94" fill="#FFC21A"/><circle cx="218" cy="501" r="55" fill="#F5E4C9"/><circle cx="475" cy="501" r="55" fill="#F5E4C9"/>
+<g stroke="#11110F" stroke-width="16" stroke-linecap="round"><path d="M340 306L483 177"/><path d="M369 331L525 246"/><path d="M324 542L231 727"/><path d="M382 543L506 717"/></g>
+<path d="M0 745q180-98 361 0t359-10v85H0z" fill="#EB4F32" stroke="#11110F" stroke-width="12"/>
+<rect width="720" height="820" fill="url(#grain)"/></svg>

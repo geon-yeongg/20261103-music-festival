@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 800" width="800" height="800">
+<rect width="800" height="800" fill="#FFC21A"/><circle cx="410" cy="398" r="317" fill="#11110F" stroke="#F5E4C9" stroke-width="12"/>
+<g fill="none" stroke="#F5E4C9" stroke-opacity=".3" stroke-width="2"><circle cx="410" cy="398" r="285"/><circle cx="410" cy="398" r="255"/><circle cx="410" cy="398" r="215"/><circle cx="410" cy="398" r="182"/><circle cx="410" cy="398" r="150"/></g>
+<circle cx="410" cy="398" r="132" fill="#EB4F32"/><circle cx="410" cy="398" r="107" fill="#087E7A"/><circle cx="410" cy="398" r="18" fill="#F5E4C9"/>
+<text x="410" y="361" fill="#F5E4C9" font-family="Arial" font-weight="900" font-size="34" text-anchor="middle">INDIE</text><text x="410" y="457" fill="#F5E4C9" font-family="Arial" font-weight="900" font-size="30" text-anchor="middle">WAVE</text>
+<path d="M110 620l50-65 30 78 89-10-66 70 29 80-89-40-61 49 12-87-67-41z" fill="#FA8F9F" stroke="#11110F" stroke-width="8"/>
+</svg>
