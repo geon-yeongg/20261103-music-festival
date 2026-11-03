@@ -107,7 +107,7 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{o
 .about-stats small{font-size:11px;color:#deebe2}
 /* HEADINGS / LINEUP */
 .section-heading{display:flex;justify-content:space-between;align-items:flex-end;gap:25px;margin-bottom:40px}
-.section-heading h2{font-family:var(--font-display);font-weight:1000;font-size:clamp(50px,6.9vw,105px);line-height:.94;margin:24px 0 0;letter-spacing:-3.8px}
+.section-heading h2{font-family:var(--font-display);font-weight:1000;font-size:clamp(50px,6.9vw,105px);line-height:.94;margin:24px 0 0;letter-spacing:2px}
 .section-heading>p{font-size:13px;font-weight:700;line-height:1.9;text-align:right;margin:0 0 5px}
 .section-heading.invert{color:var(--cream)}
 .section-heading.invert h2 span{color:var(--yellow)}
