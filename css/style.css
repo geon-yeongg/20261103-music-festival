@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@700;800&display=swap');
 /* ============================================================
    FREQ! INDIE FESTIVAL 2027 — MAIN STYLES
    전체 콘셉트: 레퍼런스 포스터의 청록, 주황, 노랑, 크림을
@@ -330,7 +331,13 @@ button:focus-visible,a:focus-visible,input:focus-visible,summary:focus-visible{o
 .summary-total strong{font-size:29px;font-family:var(--font-display);color:var(--orange);white-space:nowrap}
 .summary-bottom{justify-content:center;letter-spacing:2px;color:var(--yellow)}
 .booking-bottom-banner{background:var(--teal);color:var(--cream);padding:58px 0;border-top:3px solid var(--ink)}
-.booking-bottom-banner .section-inner{display:flex;justify-content:space-between;align-items:center;gap:35px}
+.booking-bottom-banner strong {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-size: 72px;
+    font-weight: 800;
+    line-height: 1.05;
+    letter-spacing: 0px;
+}
 .booking-bottom-banner strong{font-family:var(--font-display);font-size:72px;line-height:.9;letter-spacing:-3px}
 .booking-bottom-banner p{font-size:14px;font-weight:800;margin-bottom:20px}
 .result-dialog{max-width:610px}
